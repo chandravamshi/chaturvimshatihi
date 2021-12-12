@@ -30,7 +30,7 @@ class CupertinoStoreHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return  CupertinoPageScaffold(
       navigationBar: CupertinoNavigationBar(
-        middle: Text('Cupertino Store'),
+        middle: Text(' Chaturvimshatihi'),
       ),
       child: Center(
         child: Container(
