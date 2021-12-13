@@ -40,7 +40,7 @@ class CupertinoStoreHomePage extends StatelessWidget {
             children: [
             Text('test4'),
             SizedBox(),
-            Text('test3')],
+            Text('branch test')],
           ),
         ),
       ),
