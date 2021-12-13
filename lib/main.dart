@@ -38,7 +38,7 @@ class CupertinoStoreHomePage extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
-            Text('test2'),
+            Text('test4'),
             SizedBox(),
             Text('test3')],
           ),
