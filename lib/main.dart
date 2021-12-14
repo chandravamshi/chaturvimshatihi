@@ -33,15 +33,14 @@ class CupertinoStoreHomePage extends StatelessWidget {
         middle: Text(' Chaturvimshatihi'),
       ),
       child: Center(
-        child: Container(
-          child: Column(
-            mainAxisAlignment: MainAxisAlignment.center,
-            crossAxisAlignment: CrossAxisAlignment.center,
-            children: [
-            const Text('test4'),
-            SizedBox(),
-            Text(' test')],
-          ),
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          crossAxisAlignment: CrossAxisAlignment.center,
+          children: const [
+           Text('test4'),
+          SizedBox(),
+          Text(' test')
+          ],
         ),
       ),
     );
