@@ -1,4 +1,4 @@
-# chaturvimshatihi
+# chaturvimshatihi [![Dart](https://github.com/chandravamshi/chaturvimshatihi/actions/workflows/dart.yml/badge.svg)](https://github.com/chandravamshi/chaturvimshatihi/actions/workflows/dart.yml)
 
 A new Flutter project.
 
